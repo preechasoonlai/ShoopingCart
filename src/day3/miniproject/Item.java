@@ -11,10 +11,10 @@ package day3.miniproject;
  */
 public class Item {
     
-    int id;
-    String name;
-    double price;
-    int qty;
+    private int id;
+    private String name;
+    private  price;
+    private int qty;
     
 public  Item(int id,String name,double price){
     this.id = id ;
